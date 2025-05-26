@@ -19,6 +19,7 @@ namespace Consoleshort
             Console.WriteLine("size of short is {0}bytes", sizeof(short));
             Console.WriteLine("base type of short is {0}", a.GetType());
             //b=5000000
+            //cccccc
 
 
         }
